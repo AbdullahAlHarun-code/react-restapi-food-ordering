@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Demo
+A live demo version can be found [here](https://www.belfastfriedchicken.co.uk/)
+![alt text](https://admin.belfastfriedchicken.co.uk/media/bfc-responsive.PNG "Demo")
 ## Available Scripts
 
 In the project directory, you can run:
