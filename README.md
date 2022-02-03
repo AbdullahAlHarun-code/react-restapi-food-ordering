@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Demo
 A live demo version can be found [here](https://www.belfastfriedchicken.co.uk/)
 ![alt text](https://admin.belfastfriedchicken.co.uk/media/bfc-responsive.PNG "Demo")
+### Software
+- Django 2.2
+- Django Rest Framework
+- Python 3.6+
+- React.js 16.8+
+- 
 ## Available Scripts
 
 In the project directory, you can run:
